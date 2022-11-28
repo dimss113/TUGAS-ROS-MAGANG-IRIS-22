@@ -1,0 +1,4 @@
+<launch>
+    <node name="ball_threshold" pkg="IRIS" type="ball_threshold" output= "screen" respawn="true"/>
+    <node name="hitung_luas" pkg="IRIS" type="hitung_luas" output= "screen" respawn="true"/>
+</launch>

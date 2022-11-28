@@ -1,0 +1,3 @@
+float32 ball_pos_x
+float32 ball_pos_y
+float32 ball_radius
